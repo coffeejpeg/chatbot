@@ -1,0 +1,64 @@
+
+.pag2{
+    height: 100vh;
+    width: 100%;
+    background-image: url(img/image\ 26.png);
+    background-position: center;
+    background-size: cover;  
+}
+
+.pg2-80{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.tudo-pg2{
+    height: 100%;
+    width: 100%;
+    background-color: #171717e3;
+}
+.cb-pg2{
+    height: 10%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 100%;
+}
+h1{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.qr-img{
+    height: 400px;
+    width: 400px;
+    background-image: url(img/image\ 3.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.p1 h2{
+    color: white;
+  font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p2,.p1{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.p1{
+    height: 70%;
+    width: 50%;
+}
+.p1 div{
+    width: 50%; 
+}
+.p2{
+    width: 55%;
+}

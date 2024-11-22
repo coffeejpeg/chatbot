@@ -1,0 +1,73 @@
+
+.navb{
+display: flex;
+justify-content: end;
+align-items: center;
+flex-direction: row;
+gap: 35px;
+margin-right: 3%;
+width: 50%;
+
+}
+
+.navb li{
+    font-weight: 648;
+    list-style: none;
+}
+.navb a{
+    text-decoration: none;
+}
+
+.logobot{
+    width: 50%;
+    display: flex;
+height: 35%;
+}
+
+.partc{
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: solid 2px #6C6C6C;;
+}
+
+.partb{
+    display: flex;
+    align-items: center;
+    height: 24vh;
+gap: 35px;
+}
+
+.logogt{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    border-right:  solid 3px #6C6C6C;
+
+}
+
+.logogt img{
+    width: 85px;
+    height: 85px;
+
+}
+
+.globtst h4{
+    font-size: 18px;
+    color: #6C6C6C;
+}
+.globtst{
+    height: 13vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+
+
+.navb li:hover{
+    color: blueviolet;
+}
